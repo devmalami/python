@@ -28,24 +28,6 @@ This repo helps me:
 - Git & GitHub
 - VS Code / Any text editor
 
----
-
-## 📌 How to Run
-
-Clone the repo:
-
-```bash
-git clone git@github.com:devmalami/python.git
-Navigate to the folder:
-
-```bash
-cd python
-
-Run any Python file:
-
-```bash
-python filename.py
-
 💡 Notes
 This repository is a work in progress — updated frequently as I learn more. Feel free to explore, learn, and even suggest improvements.
 
