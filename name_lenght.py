@@ -1,5 +1,5 @@
-# Bayani akan len()
-
+# Get user name
 name = input('What is your name? ')
 
-print('Your name has ', len(name), ' letters')
+print(f'Hello, {name}!')
+print(f'Your name has {len(name)} letters')
